@@ -28,7 +28,9 @@ class Form extends Component {
             required
           />
         </div>
-        <Button />
+        <Button>
+          Add
+        </Button>
       </form>
     );
   }
